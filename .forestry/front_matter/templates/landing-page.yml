@@ -80,5 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
-- index.md
 - landing.html
+- index.md
